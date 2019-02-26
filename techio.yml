@@ -1,4 +1,12 @@
-title: Simple PHP Template
+title: PHP Intégration HTML-PHP
 plan:
-- title: PHP Snippet
-  statement: statement.md
+- title: Exercice 1
+  statement: ex1.md
+- title: Exercice 2
+  statement: ex2.md
+- title: Exercice 3
+  statement: ex3.md
+- title: Exercice 4
+  statement: ex4.md
+- title: Exercice 5
+  statement: ex4.md
