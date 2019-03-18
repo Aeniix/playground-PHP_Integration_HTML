@@ -12,3 +12,9 @@ plan:
   statement: ex5.md
 - title: Traitement de formulaires - Expressions rationnelles
   statement: ex6.md
+- title: Les sessions
+  statement: ex7.md
+- title: Formulaires - Sessions - Fichiers
+  statement: ex8.md
+- title: Formulaires - Sessions - Base de données
+  statement: ex9.md
