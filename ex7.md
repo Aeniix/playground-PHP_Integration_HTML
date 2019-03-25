@@ -1,6 +1,6 @@
 # Les sessions
 
-Pour cet exercice, il faut réaliser un jeu de calcul. Les calculs doivent être généré au harsard parmi les opération ´+´, ´-´ et ´*´. Les 2 opérandes sont des nombres entre 0 et 20.   
+Pour cet exercice, il faut réaliser un jeu de calcul. Les calculs doivent être généré au harsard parmi les opération `+`, `-` et `*`. Les 2 opérandes sont des nombres entre 0 et 20.   
 
 Il faut pouvoir :
 - répondre au calcul proposé ;
