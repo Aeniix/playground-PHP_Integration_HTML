@@ -6,7 +6,7 @@ Toutes les données stockées doivent maintenant l'être dans une base de donné
 
 ## Références
 
-**ATTENTION : ** Nous utilisons toujours les appels de fonction dans le `style procédural`
+**ATTENTION :** Nous utilisons toujours les appels de fonction dans le `style procédural`
 
 - [mysqli_connect](https://www.php.net/manual/fr/function.mysqli-connect.php)
 - [mysqli_query](https://www.php.net/manual/fr/mysqli.query.php)
