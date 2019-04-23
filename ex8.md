@@ -16,20 +16,20 @@ Le login sera unique, le mot de passe stocké sous forme de hash, le genre sera 
 Dans le fichier, on stocke un tableau sérialisé contenant en clé principale le nom d’utilisateur et en valeur un tableau avec mot de passe, droit et image (et d’autres si on veut). Un admin peu éditer tous les utilisateur et l’utilisateur une fois connecté peut modifier son image en en envoyant une nouvelle. 
 
 ## Références
-[file-exists](https://www.php.net/manual/fr/function.file-exists.php)
-https://www.php.net/manual/fr/function.file-get-contents.php
-https://www.php.net/manual/fr/function.file-put-contents.php
+- [file-exists](https://www.php.net/manual/fr/function.file-exists.php)
+- [file-get-contents](https://www.php.net/manual/fr/function.file-get-contents.php)
+- [file-put-contents](https://www.php.net/manual/fr/function.file-put-contents.php)
 
-https://www.php.net/manual/fr/function.serialize.php
-https://www.php.net/manual/fr/function.unserialize.php
+- [serialize](https://www.php.net/manual/fr/function.serialize.php)
+- [unserialize](https://www.php.net/manual/fr/function.unserialize.php)
 
-https://www.php.net/manual/fr/function.array-key-exists.php
-https://www.php.net/manual/fr/function.ksort.php
+- [array-key-exists](https://www.php.net/manual/fr/function.array-key-exists.php)
+- [ksort](https://www.php.net/manual/fr/function.ksort.php)
 
 ## Encoder un image base64
 
 ```php
-function base64_encode_image ($filename=string,$filetype=string)
+function base64_encode_image ($filename,$filetype)
 {
     if ($filename)
     {
